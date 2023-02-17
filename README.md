@@ -1,12 +1,12 @@
 # Salvage Scraper
 
+A project I did a few years ago for a SQL class. 
+
 Scrapes a major salvage auction site for data on vehicles and saves to a dockerised MySQL database. Used to scrape every available lot at the time, ~100k lots. MySQL database is capable of complex queries with joins in under 1s because of indexing. Wrote sample queries to find Nissan Leaf's near me. 
 
 Ran MySQL in a docker container for portability.
 
 Used selenium chromedriver for web automation.
-
-
 
 ### Files
 
