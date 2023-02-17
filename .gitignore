@@ -1,0 +1,8 @@
+#chromedriver 
+chromedriver.exe
+
+#CSV data files
+*.csv
+
+#omit raw VIN's
+Insert_lots.sql

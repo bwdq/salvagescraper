@@ -1,0 +1,52 @@
+1,AB,Alberta,Canada
+2,AK,Alaska,United States
+3,AL,Alabama,United States
+4,AR,Arkansas,United States
+5,AZ,Arizona,United States
+6,CA,California,United States
+7,CO,Colorado,United States
+8,CT,Connecticut,United States
+9,DE,Delaware,United States
+10,FL,Florida,United States
+11,GA,Georgia,United States
+12,HI,Hawaii,United States
+13,IA,Iowa,United States
+14,ID,Idaho,United States
+15,IL,Illinois,United States
+16,IN,Indiana,United States
+17,KS,Kansas,United States
+18,KY,Kentucky,United States
+19,LA,Louisiana,United States
+20,MA,Massachusetts,United States
+21,MD,Maryland,United States
+22,ME,Maine,United States
+23,MI,Michigan,United States
+24,MN,Minnesota,United States
+25,MO,Missouri,United States
+26,MS,Mississippi,United States
+27,MT,Montana,United States
+28,NB,New Brunswick,Canada
+29,NC,North Carolina,United States
+30,NE,Nebraska,United States
+31,NH,New Hampshire,United States
+32,NJ,New Jersey,United States
+33,NM,New Mexico,United States
+34,NS,Nova Scotia,Canada
+35,NV,Nevada,United States
+36,NY,New York,United States
+37,OH,Ohio,United States
+38,OK,Oklahoma,United States
+39,ON,Ontario,Canada
+40,OR,Oregon,United States
+41,PA,Pennsylvania,United States
+42,QC,Quebec,Canada
+43,RI,Rhode Island,United States
+44,SC,South Carolina,United States
+45,TN,Tennessee,United States
+46,TX,Texas,United States
+47,UT,Utah,United States
+48,VA,Virginia,United States
+49,WA,Washington,United States
+50,WI,Wisconsin,United States
+51,WV,West Virginia,United States
+52,WY,Wyoming,United States
